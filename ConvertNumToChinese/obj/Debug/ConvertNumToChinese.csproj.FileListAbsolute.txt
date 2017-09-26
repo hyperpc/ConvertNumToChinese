@@ -1,0 +1,12 @@
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.exe.config
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.exe
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.pdb
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.csprojResolveAssemblyReference.cache
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.exe
+D:\workspace\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.pdb
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.exe.config
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.exe
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.pdb
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.exe
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\bin\Debug\ConvertNumToChinese.pdb
+D:\Workspace\test\ConvertNumToChinese\ConvertNumToChinese\obj\Debug\ConvertNumToChinese.csprojResolveAssemblyReference.cache
